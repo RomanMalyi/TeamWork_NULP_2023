@@ -2,4 +2,4 @@ Shportko
 Kopach 
 Lukianov 
 Tyndyk
-test strin4
+tst str
