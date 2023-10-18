@@ -3,4 +3,3 @@ Kopach
 Lukianov 
 Tyndyk
 tst str
-
